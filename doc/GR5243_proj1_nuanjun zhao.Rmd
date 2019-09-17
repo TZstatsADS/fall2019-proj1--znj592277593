@@ -365,11 +365,11 @@ knitr::include_graphics("../figs/corr.png")
 According to correlation test, lyrics length and emotion are related although the correlation is not large. Besides, they are negatively correlated, which also corresponds to the Tukey HSD test result.
 
 ## Summary
-After basic sentiment analysis, we find that songs contain more negative words compared to positive ones. For the frequency of words, we find song writers use words more randomly to express negative emotion while for positive emotions, they are more likely to use *Love* instead of other positive words. For lyrics in different music genres, metal and hip-hop music show more negative feelings. 
+After basic sentiment analysis, we find that songs contain more negative words compared to positive ones. For the frequency of words, we find song writers use words more randomly to express negative emotion while for positive emotions, they are more likely to use *Love* instead of other positive words. 
 
 To conclude, sentiments are related to music genres, music ages and music lyrics length.
 
-And different genres may differ in sentiments. But R&B, pop and country music have something in common, so do electronic, folk and indie and indie and Rock. So, the music genres are connected to sentiments in lyrics. 
+For lyrics in different music genres, metal and hip-hop music show more negative feelings. And different genres may differ in sentiments. But R&B, pop and country music have something in common, so do electronic, folk and indie and indie and Rock. So, the music genres are connected to sentiments in lyrics. 
 
 For music in different ages, sentiments vary as well. As time pass by, songs contains more negative feelings. Without old regulations, living in peace, people concentrates more on their negative feelings and they have courage to express in songs. Sentiments are related to time. 
 
