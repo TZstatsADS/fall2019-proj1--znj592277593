@@ -1,10 +1,10 @@
 ## Applied Data Science @ Columbia
 ## STAT GR5243/GU4243 Fall 2019 
-### Project 1 An R Notebook "Data Story" on Song Lyrics
+### Project 1 An R/Python Notebook "Data Story" on Song Lyrics
 
 <img src="../figs/title2.jpg" width="400">
 
-Have it happened to you when a song was really *speaking* to you? Do you like some of your favorite songs for their lyrics? When you think of a particular music genre (e.g., classic rock), do you expect certain *topics* or *sentiments* for the lyrics? 
+Has it happened to you when a song was really *speaking* to you? Do you like some of your favorite songs for their lyrics? When you think of a particular music genre (e.g., classic rock), do you expect certain *topics* or *sentiments* for the lyrics? 
 
 The goal of this project is to look deeper into the patterns and characteristics of different types of song lyrics. Applying tools from natural language processing and text mining, students should derive interesting findings in this collection of song lyrics and write a "data story" that can be shared with a general audience. 
 
@@ -16,7 +16,7 @@ The goal of this project is to look deeper into the patterns and characteristics
 
 ### Challenge 
 
-In this project you will carry out an **exploratory data analysis (EDA)** of the corpus of song lyrics and write a blog on interesting findings from the provide data sets (i.e., a *data story*).
+In this project you will carry out an **exploratory data analysis (EDA)** of the corpus of song lyrics and write a blog on interesting findings from the provided data sets (i.e., a *data story*).
 
 You are tasked to explore the texts using tools from text mining and natural language processing such as sentiment analysis, topic modeling, etc, all available in `R` and write a blog post using `R` Notebook. Your blog should be in the form of a `data story` blog on interesting trends and patterns identified by your analysis of these song lyrics. 
 

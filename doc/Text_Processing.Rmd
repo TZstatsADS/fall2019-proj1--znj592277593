@@ -1,7 +1,9 @@
 ---
 title: "Stem Completion"
 author: "Chengliang Tang, Arpita Shah, Yujie Wang and Tian Zheng"
-output: html_notebook
+output:
+  pdf_document: default
+  html_notebook: default
 ---
 
 ```{r setup, include=FALSE}
