@@ -377,4 +377,4 @@ For lyrics in different music genres, metal and hip-hop music show more negative
 
 For music in different ages, sentiments vary as well. As time pass by, songs contains more negative feelings. Without old regulations, living in peace, people concentrates more on their negative feelings and they have courage to express in songs. Sentiments are related to time. 
 
-There's also some relation between lyrics length and sentiments. More negative the theme is, more words appear in one song.
+There's also some relation between lyrics length and sentiments. More negative the song shows, more words will appear in this song.
